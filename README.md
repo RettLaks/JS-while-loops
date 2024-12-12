@@ -1,7 +1,7 @@
 <h1 align="center">JavaScript While løkker</h1> 
 <div align="center"> 
     <h3> 
-        <a href="RettLaks.github.io/JavaScript-while-loops/"> Lenken til prosjektet 
+        <a href="RettLaks.github.io/https://rettlaks.github.io/JS-while-loops//"> Lenken til prosjektet 
         </a> 
     </h3> 
 </div> 
